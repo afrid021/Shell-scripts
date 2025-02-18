@@ -20,15 +20,18 @@ num=$3
 echo " the number one is : $num1"
 echo " the number two is : $num2"
 echo " the number three is : $num"
-: '
+
+
 #2:
+
 $1
 $2
 $3
 
 echo $1
 echo " $2,$3"
-'
+
+
 #Input type 3 : Interactive inputs or User inputs
 
 #1 :
