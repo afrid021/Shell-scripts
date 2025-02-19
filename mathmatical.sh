@@ -2,9 +2,9 @@
 
 
 
-########Mathmatical Operations can be perform in Shell 2ways ########
+########Mathmatical Operations can be perform in Shell 2ways $((data)) or $(expr $data)########
 
-## Type 1 : without functions
+## Type 1 : Preferred method 
 
 n1=10
 n2=10
